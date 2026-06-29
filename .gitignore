@@ -1,0 +1,15 @@
+# Build files
+/build
+/app/build
+.gradle
+.externalNativeBuild
+.cxx
+
+# IDE files
+.idea/
+
+# Local configuration
+local.properties
+
+# Secrets (Add this!)
+google-services.json
