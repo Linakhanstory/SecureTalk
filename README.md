@@ -25,18 +25,7 @@ Security: Google Tink (for E2EE)
 
 Architecture: MVVM (Model-View-ViewModel)
 
-Project Structure
-Plaintext
 
-
-├── data/           # Data classes and repository layer
-├── di/             # Dependency injection modules
-├── ui/             # Jetpack Compose screens and themes
-├── viewmodel/      # ViewModel classes for state management
-└── utils/          # Encryption utilities and constants
-Setup Instructions
-Clone the repository:
-git clone https://github.com/your-username/SecureTalk.git
 
 Firebase Configuration:
 
