@@ -1,4 +1,4 @@
-SecureTalk 
+
 SecureTalk is a professional, real-time communication platform designed to bridge the gap between interns and mentors. Built with modern Android development practices, it ensures seamless collaboration, instant messaging, and end-to-end data security.
 
 Key Features
